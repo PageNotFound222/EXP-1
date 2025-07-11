@@ -1,7 +1,8 @@
 # EXP-1
 EXP-1 C++ BY PRATHAMESH GALPHADE PRN-24070123123
 
-//EXPERIMENT 1A-PRINTING HELLO WORLD
+
+
 #include <iostream>
 using namespace std;
 int main(){
