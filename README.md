@@ -1,0 +1,44 @@
+# EXP-1
+EXP-1 C++ BY PRATHAMESH GALPHADE PRN-24070123123
+
+//EXPERIMENT 1A-PRINTING HELLO WORLD
+#include <iostream>
+using namespace std;
+int main(){
+    cout<<"HELLO WORLD";
+    return 0;
+}
+
+
+
+//EXPERIMENT 1B-BASIC CALCULATOR PROGRAM
+
+#include <iostream>
+using namespace std;
+
+int main() {
+    int num1, num2;
+    cout << "enter the first number:";
+    cin >> num1;
+    cout << "enter the second number:";
+    cin >> num2;
+
+    int c;
+    c = num1 + num2;
+    cout << "sum=" << c << endl;
+
+    int d;
+    d = num1 - num2;
+    cout << "difference=" << d << endl;
+
+    int e;
+    e = num1 * num2;
+    cout << "multiply=" << e << endl;
+
+    int f;
+    f = num1 / num2;
+    cout << "DIVISION=" << f << endl;
+
+    return 0;
+}
+
