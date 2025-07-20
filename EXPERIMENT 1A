@@ -1,0 +1,14 @@
+# EXP-1
+EXP-1 C++ BY PRATHAMESH GALPHADE PRN-24070123123
+
+
+
+#include <iostream>
+using namespace std;
+int main(){
+    cout<<"HELLO WORLD";
+    return 0;
+}
+
+
+
